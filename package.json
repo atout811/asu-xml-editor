@@ -1,0 +1,22 @@
+{
+  "name": "xml-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atout811/asu-xml-editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atout811/asu-xml-editor/issues"
+  },
+  "homepage": "https://github.com/atout811/asu-xml-editor#readme",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  }
+}
